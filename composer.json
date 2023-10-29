@@ -1,0 +1,9 @@
+{
+    "name": "apple/projeto",
+    "autoload": {
+        "psr-4": {
+            "Apple\\Projeto\\": "src/"
+        }
+    },
+    "require": {}
+}
